@@ -3,4 +3,3 @@ from .models import Job
 
 
 admin.site.register(Job)
-
